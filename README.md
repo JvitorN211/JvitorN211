@@ -4,6 +4,7 @@
 - 🌱 Atualmente estudando desenvolvimento web Fullstack
 - 👾 Crio jogos por diversão
 
+<!--
 <div align="center">
   <a href="https://github.com/JvitorN211">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JvitorN211&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="João Vítor S. Dutra's github stats" />
@@ -20,7 +21,7 @@
   <img align="center" alt="Joao-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <!--   <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> -->
 </div>
-  
+  -->
 ##
   
 <div> 
