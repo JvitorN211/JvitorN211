@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Vítor
 
-- 🔭 Estou trabalhando como T.I
+- 🔭 Estou trabalhando como Desenvolvedor no IATec
 - 🌱 Atualmente estudando desenvolvimento web Fullstack
 - 👾 Crio jogos por diversão
 
